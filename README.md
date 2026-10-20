@@ -9,16 +9,19 @@ I’m a Product Designer passionate about creating intuitive, accessible, and us
 Design: UI/UX Design, User Research, Wireframing, Prototyping, Design Systems
 Tools: Figma, Canva, CapCut
 Other Skills: Communication, Collaboration, Research Documentation
+
 🚀 Selected Projects
 
 Financial Wellness: Contributed to Shekel, a financial wellness concept focused on helping users understand financial pressures and make informed decisions.
 Artisans Mobile App: Collaborated on a mobile app concept designed to connect buyers with artisans.
 Budgeting App: Designed a personal budgeting experience focused on helping young women manage their finances.
+
 🌱 Currently
 
 Building my Product Design portfolio.
 Improving my UI/UX design and prototyping skills.
 Exploring opportunities to collaborate with product teams.
+
 📫 Let’s Connect
 
 Email: chukwunenyemarcell@gmail.com
